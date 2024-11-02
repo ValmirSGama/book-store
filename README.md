@@ -35,3 +35,5 @@ O projeto **Book Store** é uma homepage de e-commerce para a compra e divulgaç
 O objetivo é simular uma experiência de e-commerce visualmente agradável e funcional, com foco na organização e personalização dos elementos para atender às melhores práticas de UX/UI em sites de comércio eletrônico.
 
 [**Demonstração do Projeto**](https://valbook-store.vercel.app/)
+
+[**Referência do Projeto**](https://www.youtube.com/@MrWebDesignerAnas)
